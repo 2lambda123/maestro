@@ -29,7 +29,7 @@ shpotify needs to connect to Spotify’s API in order to find music by
 name. It is very likely you want this feature!
 
 To get this to work, you first need to sign up (or into) Spotify’s
-developer site and [create an *Application*][spotify-dev]. Once you’ve
+developer site and [create an _Application_][spotify-dev]. Once you’ve
 done so, you can find its `Client ID` and `Client Secret` values and
 enter them into your shpotify config file at `${HOME}/.shpotify.cfg`.
 
