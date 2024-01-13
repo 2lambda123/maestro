@@ -1,7 +1,7 @@
 class Spotify
   APP_PATH = "/Applications/Spotify.app".freeze # TODO: Make this configurable
-  VALID_TOGGLES = %w(shuffle repeat).freeze
-  VALID_SHARES = %w(url uri).freeze
+  VALID_TOGGLES = %w[shuffle repeat].freeze
+  VALID_SHARES = %w[url uri].freeze
   NAME_REGEX = /\A[a-z0-9\.\-_\s]*\z/i
   URI_REGEX = %r{
   \A
