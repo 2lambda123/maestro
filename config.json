@@ -4,8 +4,6 @@
     "password": "device_password"
   },
   "auth": {
-    "tokens": [
-      "slack_token"
-    ]
+    "tokens": ["slack_token"]
   }
 }
